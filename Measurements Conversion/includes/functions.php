@@ -1,4 +1,3 @@
-
 <?php
 
 const LENGTH_TO_METER = array(
